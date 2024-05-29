@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-        Learning CICD tool with github actions
+        This is the new feature
     </div>
   );
 }
