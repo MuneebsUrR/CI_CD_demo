@@ -4,7 +4,8 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-        This is the new feature branch
+        
+        This is the new feature branch for the project
     </div>
   );
 }
